@@ -158,7 +158,7 @@ module.exports = function (grunt) {
           dest: '.tmp/styles/'
         }]
       }
-    },
+    }, 
 
     // Automatically inject Bower components into the HTML file
     wiredep: {
